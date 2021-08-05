@@ -6,6 +6,7 @@ import java.util.LinkedList;
 
 /**
  * @Description:
+ * 利用中序遍历搜索二叉树的结果是升序数组
  * @Author: chong
  * @Data: 2021/6/27 2:13 下午
  */

@@ -24,7 +24,7 @@ public class MySolution {
         }
         int left = 0;
         int right = 0;
-//        right指针到达最后停止
+//        right指针越界即停止
         while (right < s.length()){
 //            记录左右指针指向位置的字符
             char leftLet = s.charAt(left);
